@@ -1,4 +1,4 @@
-[gimmic: math]()
+[gimmick: math]()
 A math sample
 ============
 
